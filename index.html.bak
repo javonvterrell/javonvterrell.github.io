@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="CAPSTONE Proj WK7">
+  <meta name="keywords" content="prototype">
+  <meta name="author" content="Javon Roberts">
+	<title>Brightspace Pulse - FMS</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Notable&family=Sigmar+One&display=swap" rel="stylesheet">
+</head>
+<body>
+<section id="banner">
+	<img src="pictures/logo.png" class="logo">
+	<div class="banner-text">
+		<h3>Brightspace Pulse</h3>
+		<h1>Feedback Management is Here!</h1>
+		
+		<p>Assiting Pulse Developers with feedback management and helping APUS students make the most of their educational experience!</p>
+		<div class="banner-btn"></div>
+			<a href="#">GET STARTED</a>
+	</div>
+
+
+</section>
+	
+	
+	
+	
+</body>
+</html>
